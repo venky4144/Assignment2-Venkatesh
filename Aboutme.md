@@ -9,5 +9,5 @@
 
 ---
 
- !MonumentofParis(desktop\images\Paris.jpg)
+ !MonumentofParis(desktop/images/Paris.jpg)
 
