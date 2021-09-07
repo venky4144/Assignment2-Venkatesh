@@ -6,5 +6,5 @@
    I completed My Under Grad in Electronics and Communication Engineering,But Later I picked Up a Completely Different stream of Work
    At those Hard times I have Crossed Many Hurdles for getting into Computers Side.But Now i feel that I can accquire more Knowledge than my prior Experience.
 
-   ![PARIS]C:\Users\S545416\Downloads\Paris.jpg
-   
+   ![PARIS](C:\Users\S545416\Downloads\Paris.jpg)
+
