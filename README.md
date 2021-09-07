@@ -22,10 +22,10 @@ List of Items to get in Paris for getting Maximum enjoyment
 
 * Make a Friends over there
 * To make every Memory Safe Get the Things like
-      * Camera 
-      * Go Pro
-      * Drones may be
+   * Camera
+   * Go Pro
+   * Drones may be
 * Get some real taste French Dishes Like
-      * Boeuf Bourguignon
-      * Croque Monsieur
-      * Pot au Feu       
+   * Boeuf Bourguignon
+   * Croque Monsieur
+   * Pot au Feu       
