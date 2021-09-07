@@ -10,4 +10,4 @@
 ---
  
 ***Monument of Paris***
-![Monument of paris](Desktop/images/Paris.jpg)
+![Monument of paris](Paris.jpg)
