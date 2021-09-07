@@ -46,3 +46,18 @@ List of Items to get in Paris for getting Maximum enjoyment
   | Pepperoni Pizza | Hyvee | $5.19 |
   | 6 foot long Wrap | Subway | $6.99 |
   | Pizza Ranch Buffet | Pizza Ranch | $11.99 |
+
+  ---
+ 
+  ## Pithy Quotes ##
+
+ **Happiness** is not something **ready** made. It comes from your **own actions**. - *Dalai Lama*
+
+  Be *realistic*: **Plan** for a ***miracle***. - *Osho*
+
+
+
+
+
+
+
