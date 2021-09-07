@@ -35,3 +35,14 @@ List of Items to get in Paris for getting Maximum enjoyment
   # You can Know me Here # 
 
    [Let's get to know Aboutme](Aboutme.md)
+
+  ---
+
+  ### Food I would recommend to try Once ###
+  
+  |   Food   |   Place   |   Price   |
+  | -------- | --------- | --------- |
+  | Sausage Mcmuffin | Mc Donalds | $1.19 |
+  | Pepperoni Pizza | Hyvee | $5.19 |
+  | 6 foot long Wrap | Subway | $6.99 |
+  | Pizza Ranch Buffet | Pizza Ranch | $11.99 |
