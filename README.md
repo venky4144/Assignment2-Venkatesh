@@ -21,11 +21,11 @@ Directions From Maryville to Paris
 List of Items to get in Paris for getting Maximum enjoyment
 
 * Make a Friends over there
-* To make every Memory Safe Get the Things like
+* To Capture Every Moment as Memory then Get the Things like
    * Camera
    * Go Pro
    * Drones may be
-* Get some real taste French Dishes Like
+* Get some real taste of French Dishes Like
    * Boeuf Bourguignon
    * Croque Monsieur
    * Pot au Feu       
